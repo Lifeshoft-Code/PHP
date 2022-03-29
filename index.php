@@ -7,6 +7,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <!-- Para escribir codigo php -->
+    <?php
+        /*Mostrar por mensaje */
+        print "Hola Mundo PHP"
+
+    ?>
 </body>
 </html>
