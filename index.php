@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <!-- reset css style from all browsers -->
     <link rel="stylesheet" href="public\css\normalize.css">
+    <!--  -->
 </head>
 <body>
     <!-- Para escribir codigo php -->
@@ -29,10 +31,8 @@
             <li>String (Cadena de caracteres)</li>
             <li>Booleanos</li>
         </ul>
-
-        <?php
-
-        ?>
+            <a href="./variable.php">Variable</a>
+        
     </section>
 </body>
 </html>
